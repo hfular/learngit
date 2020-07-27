@@ -7,3 +7,7 @@ Rebase on 3rd time
 
 Changes on myBranch
 
+Changes on features branch.
+This is just a sample test.
+Hope it should also work with rebase.
+
