@@ -11,3 +11,5 @@ Changes on myBranch
 This is just a sample test.
 Hope it should also work with rebase.
 
+Rebase 3rd time on features branch
+
