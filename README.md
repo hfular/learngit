@@ -13,3 +13,4 @@ Hope it should also work with rebase.
 
 Rebase 3rd time on features branch
 
+Git, is not so tough, but it's not soo easy too, if you want to learn whole Git.
